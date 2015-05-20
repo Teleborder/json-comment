@@ -1,0 +1,26 @@
+{
+  "name": "json-comment",
+  "version": "0.0.1",
+  "description": "Make comments in the JSON data stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Teleborder/json-comment"
+  },
+  "keywords": [
+    "json",
+    "comment"
+  ],
+  "author": "Trey Griffith <trey@teleborder.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teleborder/json-comment/issues"
+  },
+  "homepage": "https://github.com/Teleborder/json-comment",
+  "dependencies": {
+    "merge": "^1.2.0"
+  }
+}
